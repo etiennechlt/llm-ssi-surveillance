@@ -1,0 +1,15 @@
+EXEMPLE FICTIF : ce compte-rendu a été rédigé pour la documentation du code. Il ne concerne aucun patient réel.
+
+COMPTE-RENDU OPÉRATOIRE
+
+Concerne : Patient fictif
+
+Indication : maladie coronarienne tritronculaire, angor stable, fonction ventriculaire gauche conservée. Pas d'endocardite.
+
+Intervention : triple pontage aorto-coronarien sous circulation extracorporelle.
+
+Antibioprophylaxie : céfuroxime à l'induction, réinjection à 4 heures.
+
+Déroulement : sternotomie médiane complète. Prélèvement de l'artère mammaire interne gauche pédiculée et de la veine grande saphène droite. Canulation aortique et atriale droite, cardioplégie froide antérograde. Anastomoses distales : artère mammaire interne gauche sur l'interventriculaire antérieure, greffon veineux saphène sur la marginale et sur l'interventriculaire postérieure. Anastomoses proximales sur l'aorte ascendante. Sevrage de la circulation extracorporelle sans difficulté. Drains péricardique et rétrosternal.
+
+Fermeture : sternum par cerclage de 7 fils d'acier, plans sous-cutané et cutané.

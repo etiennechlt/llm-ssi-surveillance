@@ -1,0 +1,54 @@
+# ---------------------------------------------------------------------------
+# Patient data and results must never be committed.
+# Keep clinical documents, reference tables and run outputs outside the
+# repository, or in the ignored folders below.
+# ---------------------------------------------------------------------------
+data/
+runs/
+results/
+outputs/
+figures/
+CRO*/
+*classification*/
+
+# Tabular data and model outputs (only the synthetic example is versioned)
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.parquet
+*.json
+*.jsonl
+*.ndjson
+!examples/synthetic/reference/*.csv
+!examples/synthetic/expected_output/*.json
+
+# Clinical documents and generated figures
+*.pdf
+*.docx
+*.png
+*.txt
+!requirements.txt
+!examples/synthetic/reports/*.txt
+
+# Logs and debug dumps (may contain document identifiers)
+*.log
+*.err
+_debug_*
+_errors*
+
+# Secrets
+.env
+.env.*
+*.key
+
+# Python and editors
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.ipynb_checkpoints/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db

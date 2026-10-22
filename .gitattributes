@@ -1,0 +1,5 @@
+# Keep LF line endings in the repository on every platform, so that the prompt
+# files are byte-identical to the versions used in the paper.
+* text=auto eol=lf
+*.png binary
+*.pdf binary

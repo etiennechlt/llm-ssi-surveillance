@@ -1,0 +1,4 @@
+patient_id;eds_id;date_op;procedure;class_contamination;implant_bool;SCOPIE;COLORECTAL_CANCER
+P0001;S0001;2000-01-10;6;2;False;oui;oui
+P0002;S0002;2000-02-14;50;1;False;non;
+P0003;S0003;2000-03-20;45;1;True;non;
